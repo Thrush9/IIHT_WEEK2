@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "firstname": "Thrush",
+      "lastname": "Reddy",
+      "email": "thrush9@gmail.com",
+      "gender": "Male",
+      "dob": "1996-10-21",
+      "phone": "9505697287",
+      "address": "1-89/a, Bakkireddy Colony, Thummalagunta",
+      "city": "Tirupati",
+      "state": "Andhra Pradesh",
+      "country": "India",
+      "zipcode": "517502",
+      "comments": "No Comments",
+      "season": "Spring",
+      "id": 1
+    },
+    {
+      "firstname": "Krish",
+      "lastname": "Red",
+      "email": "Krish@gmail.com",
+      "gender": "Male",
+      "dob": "2022-04-13",
+      "phone": "9876543210",
+      "address": "1234 Thothkaaa Img Strt",
+      "city": "Tirupati",
+      "state": "Andhra Pradesh",
+      "country": "India",
+      "zipcode": "517502",
+      "comments": "",
+      "season": "Winter",
+      "id": 2
+    }
+  ]
+}
